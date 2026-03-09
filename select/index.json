@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "たまには",
+  "base_artist": "声にならないよ",
+  "createdAt": "2026-03-09T06:39:33.815528Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "でもね、たまには",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/01_でもね、たまには_imase.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "でもね、たまには - Demone Tamaniwa",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/02_でもね、たまには_-_Demone_Tamaniwa_imase.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "でもね、たまには",
+      "artist": "imase",
+      "has_synced": false,
+      "path": "select/03_でもね、たまには_imase.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "【４】たまには♂イキで息ヌキ＆精子ヌキヌキ",
+      "artist": "空心菜館",
+      "has_synced": true,
+      "path": "select/04_【4】たまには♂イキで息ヌキ&精子ヌキヌキ_空心菜館.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "たまには",
+      "artist": "声にならないよ",
+      "has_synced": false,
+      "path": "select/pl_01_たまには_声にならないよ.txt"
+    }
+  ]
+}
